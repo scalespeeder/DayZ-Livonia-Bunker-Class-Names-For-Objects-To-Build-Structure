@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<map>
+	<group name="Land_Underground_Panel_Lever" pos="12409.870117 140.285400 12411.353516" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Underground_Panel" pos="12408.526367 140.285400 12411.961914" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Underground_Corridor_Main_Both" pos="12393.447266 144.228027 12422.252930" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Underground_Corridor_Main_Left" pos="12365.482422 144.666336 12430.727539" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Underground_Corridor_Main_Right" pos="12339.319336 144.228027 12443.855469" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Underground_Corridor_Connector" pos="12313.503906 143.653656 12454.069336" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Underground_Corridor_Connector_Inv" pos="12288.806641 143.653656 12466.639648" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Underground_Tunnel_Single" pos="12263.981445 143.483719 12471.137695" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Underground_Tunnel_Single_Left" pos="12246.760742 143.483612 12474.679688" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Underground_Tunnel_Single_Right" pos="12224.050781 143.483780 12484.965820" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Underground_Stairs_Block" pos="12204.028320 143.355820 12496.610352" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Underground_Stairs_Block_Corridor" pos="12187.176758 144.025528 12501.467773" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Underground_Stairs_Block_Corridor_NoDoor" pos="12172.479492 143.354584 12509.783203" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Underground_Stairs_Block_Terminator" pos="12157.458984 143.292099 12519.028320" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Underground_Stairs_Exit" pos="12142.000977 146.749390 12522.441406" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Underground_Stairs_Start" pos="12125.626953 143.787323 12531.960938" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Underground_Stairs_Collapsed" pos="12109.691406 147.202377 12532.152344" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Underground_Entrance" pos="12084.833984 145.857529 12545.287109" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Underground_Floor_Comms" pos="12051.272461 143.390518 12561.969727" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Underground_Floor_Crew" pos="12015.573242 143.746323 12579.789063" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Underground_WaterMaintenance" pos="11982.718750 143.513031 12587.773438" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Underground_Storage_Big" pos="11870.194336 144.257736 12630.279297" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Underground_Storage_Ammo" pos="11841.272461 144.257660 12642.338867" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Underground_Storage_Ammo2" pos="11812.980469 144.864578 12649.229492" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Underground_Storage_Barracks" pos="11787.767578 144.379318 12658.578125" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Underground_Storage_Hospital" pos="11762.768555 144.439545 12667.195313" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Underground_Storage_Laboratory" pos="11738.797852 145.906754 12677.110352" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Underground_Storage_POX" pos="11734.759766 144.935013 12635.089844" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Underground_Storage_POX2" pos="11758.375000 144.883774 12619.885742" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Underground_Storage_Prison" pos="11783.213867 145.948486 12607.831055" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Underground_Storage_Workshop" pos="11812.858398 144.257736 12598.469727" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+</map>
